@@ -228,7 +228,7 @@ header nav .form i {
 .landing {
     min-height: 100vh;
     background-color: black;
-    background-image: url(/images/Landing-fullview.jpg);
+    background-image: url(/Html_and_Css_templet_two/images/Landing-fullview.jpg);
     background-size: cover;
     position: relative;
 }
