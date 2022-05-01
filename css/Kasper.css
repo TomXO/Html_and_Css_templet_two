@@ -379,7 +379,7 @@ header nav .form i {
     padding-bottom: var(--section-padding);
     height: 525px;
     position: relative;
-    background-image: url(/images/02section.jpg);
+    background-image: url(/Html_and_Css_templet_two/images/02section.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
@@ -607,7 +607,7 @@ header nav .form i {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     text-align: center;
-    background-image: url(/images/stats.jpg);
+    background-image: url(/Html_and_Css_templet_two/images/stats.jpg);
     background-size: cover;
     position: relative;
 }
@@ -821,7 +821,7 @@ header nav .form i {
 .quote {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/images/quote01.jpg);
+    background-image: url(/Html_and_Css_templet_two/images/quote01.jpg);
     background-size: cover;
     position: relative;
     text-align: center;
@@ -968,7 +968,7 @@ header nav .form i {
 .subscribe {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/images/quote02.jpg);
+    background-image: url(/Html_and_Css_templet_two/images/quote02.jpg);
     background-size: cover;
     position: relative;
     color: white;
